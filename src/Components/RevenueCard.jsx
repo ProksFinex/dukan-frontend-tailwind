@@ -7,7 +7,7 @@ export const RevenueCard = ({ title, sign, orderCount, amount }) => {
             </svg>
         </div>
         <div className="flex justify-between pt-2 ">
-            <div className="font-semibold text-2xl">
+            <div className="font-semibold text-3xl">
                 ${amount}
             </div>
 
